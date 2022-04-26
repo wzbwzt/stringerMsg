@@ -1,11 +1,9 @@
-# gen-const-msg
-
 提取源码文件中的常量注释，生成对应的 msg 信息，常用于`err code`当中
 
 ## install
 
 ```bash
-go install github.com/wzbwzt/stringerError
+go install github.com/wzbwzt/stringerMsg
 ```
 
 ## Usage
