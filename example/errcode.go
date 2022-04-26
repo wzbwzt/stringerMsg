@@ -1,4 +1,4 @@
-//go:generate  gen-const-msg -t=Code -m
+//go:generate  stringerMsg -t=Code -m
 
 package example
 
